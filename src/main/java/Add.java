@@ -20,13 +20,7 @@ public class Add
         this.b = b;
     }
 
-    public int getC() {
-        return c;
-    }
 
-    public void setC(int c) {
-        this.c = c;
-    }
 
     int add(int a, int b){
        c=a+b;
