@@ -6,5 +6,6 @@ public class test {
         s.setB(6);
         sum=s.add(s.getA(), s.getB());
         System.out.println(sum);
+        System.out.println(以及被改过了);
     }
 }
